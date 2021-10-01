@@ -7,6 +7,6 @@
     <title>Contact</title>
 </head>
 <body>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto minus quibusdam officia tenetur numquam ipsum sunt eius commodi. Magni, quas? Molestias delectus laboriosam consectetur aliquam perspiciatis architecto, temporibus rerum odio.</p>
+   <p>Architecto minus quibusdam officia tenetur numquam ipsum sunt eius commodi. Magni, quas? Molestias delectus laboriosam consectetur aliquam perspiciatis architecto, temporibus rerum odio.</p>
 </body>
 </html>

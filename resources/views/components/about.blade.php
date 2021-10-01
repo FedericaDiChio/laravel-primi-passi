@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores sunt, magni odit fugit eveniet delectus ipsum incidunt vel, assumenda qui corrupti provident at placeat? Eos esse sunt voluptatum exercitationem odit.</p>
+    <p>assumenda qui corrupti provident at placeat? Eos esse sunt voluptatum exercitationem odit.</p>
 </body>
 </html>

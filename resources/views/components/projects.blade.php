@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo quidem facilis dolores voluptas, quae ut veritatis iste at odio officiis laudantium eum eius, veniam enim nihil necessitatibus, cumque excepturi odit.</p>
+    <p>Lorem ipsum dolor sit amet </p>
 </body>
 </html>

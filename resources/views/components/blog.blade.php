@@ -7,6 +7,6 @@
     <title>Lorem</title>
 </head>
 <body>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo itaque iusto, voluptas ipsa illum ratione temporibus numquam modi dolores impedit deleniti nam provident totam corrupti molestias explicabo mollitia nobis ex.</p>
+    <p> molestias explicabo mollitia nobis ex.</p>
 </body>
 </html>

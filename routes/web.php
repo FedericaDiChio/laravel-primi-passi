@@ -23,21 +23,21 @@ Route::get('/', function () {
 
 // PROJECTS 
 Route::get('/projects', function (){
-    return view('articles.projects'); 
+    return view('components.projects'); 
 })->name('projects');
 
 // BLOG
 Route::get('/blog', function () {
-    return view('articles.blog');
+    return view('components.blog');
 });
 
 // ABOUT 
 Route::get('/about', function (){
-    return view('articles.about'); 
+    return view('components.about'); 
 })->name('about');
 
 // CONTACT
 Route::get('/contact', function (){
-    return view('articles.contact'); 
+    return view('components.contact'); 
 })->name('contact');
 
