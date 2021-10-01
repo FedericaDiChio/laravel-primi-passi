@@ -13,10 +13,31 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// HOME 
 Route::get('/', function () {
 
     $data = ['name' => 'Pippo',];
 
     return view('home', $data);
 })->name('home');
+
+// PROJECTS 
+Route::get('/projects', function (){
+    return view('articles.projects'); 
+})->name('projects');
+
+// BLOG
+Route::get('/blog', function () {
+    return view('articles.blog');
+});
+
+// ABOUT 
+Route::get('/about', function (){
+    return view('articles.about'); 
+})->name('about');
+
+// CONTACT
+Route::get('/contact', function (){
+    return view('articles.contact'); 
+})->name('contact');
 
